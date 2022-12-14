@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on school projects in web development
-- 🌱 I’m currently learning Node.js and React
+- 🔭 I’m currently working on simple e-commerce and SPA applications
+- 🌱 I’m currently learning Nextjs
 - 📫 How to reach me: ikarpiatkowski@proton.me
