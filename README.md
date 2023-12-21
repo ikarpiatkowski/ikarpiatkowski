@@ -27,5 +27,5 @@ Fullstack developer from Poland
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/ikarpiatkowski"><img src="https://github-readme-stats.vercel.app/api?username=ikarpiatkowski&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="ikarpiatkowski's GitHub stats" /></a><a href="https://github.com/ikarpiatkowski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikarpiatkowski&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
