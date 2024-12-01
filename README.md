@@ -18,6 +18,7 @@
     <img width="40" height="40" src="https://cdn.simpleicons.org/react"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/next.js"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/tailwindcss"/>
+    <img width="40" height="40" src="https://cdn.simpleicons.org/storybook"/>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
@@ -36,11 +37,12 @@
 
 <h3 align="center">🛠️ Other Technologies</h3>
 <p align="center">    
-    <img width="40" height="40" src="https://cdn.simpleicons.org/docker"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/git"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/linux"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/gnubash"/>
-    <img width="40" height="40" src="https://cdn.simpleicons.org/storybook"/>
+    <img width="40" height="40" src="https://cdn.simpleicons.org/docker"/>
+    <img width="40" height="40" src="https://cdn.simpleicons.org/eslint"/>
+    <img width="40" height="40" src="https://cdn.simpleicons.org/prettier"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/zod"/>
     <img width="40" height="40" src="https://cdn.simpleicons.org/i18next"/>
 </p>
