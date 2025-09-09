@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ikar</h1>
 
-<h3 align="center">💻 Fullstack web developer from Poland</h3>
+<h3 align="center">💻 Dev from Poland</h3>
 
 - 📫 [ikarpiatkowski@gmail.com](mailto:ikarpiatkowski@gmail.com)
 
