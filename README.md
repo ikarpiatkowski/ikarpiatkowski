@@ -1,8 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ikar</h1>
-
-<h3 align="center">💻 Dev from Poland</h3>
-
-- 📫 [ikarpiatkowski@gmail.com](mailto:ikarpiatkowski@gmail.com)
+<h3 align="center">Contact me here 📫 ikarpiatkowski@gmail.com</h3>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
